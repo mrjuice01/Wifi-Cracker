@@ -56,6 +56,15 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 # Installation
 
+### Termux
+
+```bash
+1) apt update && apt upgrade
+2) apt install git
+3) git clone https://github.com/mrjuice01/Wifi-Cracker
+4) cd Wifi-Cracker
+5) python3 Wifi-Hacking.py
+```
 
 ### Kali Linux / Ubuntu / Parrot OS
 
